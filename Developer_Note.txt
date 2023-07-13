@@ -1,0 +1,3 @@
+Note:
+As per the task 
+I have created the design and made it responsive.
